@@ -1,1 +1,1 @@
-{test:"hi"}
+{"shortName":"api","env":[{"key":"JWT_KEY","valueType":"randomHex"},{"key":"DB_HOST","valueType":"string"},{"key":"DB_PASS","valueType":"string"},{"key":"DB_NAME","valueType":"string"}]}
